@@ -1,0 +1,9 @@
+C:\csprojects\MondayDriverApp\MondayDriver\bin\Debug\MondayDriver.exe.config
+C:\csprojects\MondayDriverApp\MondayDriver\bin\Debug\MondayDriver.exe
+C:\csprojects\MondayDriverApp\MondayDriver\bin\Debug\MondayDriver.pdb
+C:\csprojects\MondayDriverApp\MondayDriver\obj\Debug\MondayDriver.Form1.resources
+C:\csprojects\MondayDriverApp\MondayDriver\obj\Debug\MondayDriver.Properties.Resources.resources
+C:\csprojects\MondayDriverApp\MondayDriver\obj\Debug\MondayDriver.csproj.GenerateResource.Cache
+C:\csprojects\MondayDriverApp\MondayDriver\obj\Debug\MondayDriver.exe
+C:\csprojects\MondayDriverApp\MondayDriver\obj\Debug\MondayDriver.pdb
+C:\csprojects\MondayDriverApp\MondayDriver\obj\Debug\MondayDriver.csprojResolveAssemblyReference.cache
